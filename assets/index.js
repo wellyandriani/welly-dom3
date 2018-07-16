@@ -1,4 +1,4 @@
-console.log("Manipulation String");
+
 
 const title = document.getElementById("title")
 const output = document.getElementById("output-string")
@@ -21,4 +21,3 @@ const send = () => {
 }
 
 result.addEventListener('click', send);
-
